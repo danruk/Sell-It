@@ -21,14 +21,14 @@ Sell-It is a mobile marketplace app for listing and selling items you no longer 
 - apisauce for API calls
 
 ## Screenshots
-Place screenshots in `screenshots/` using this naming scheme:
-- `screenshots/01-welcome.png`
-- `screenshots/02-register.png`
-- `screenshots/03-login.png`
-- `screenshots/04-feed.png`
-- `screenshots/05-listing-edit-empty.png`
-- `screenshots/06-listing-edit-filled.png`
-- `screenshots/07-account.png`
+![Welcome](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.01.png>)
+![Register](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.20.png>)
+![Login](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.31.png>)
+![Feed](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.35.52.png>)
+![Create Listing](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.04.png>)
+![Account](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.31.png>)
+![Messages](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.37.png>)
+![Logout](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.45.png>)
 
 ## Run locally
 
