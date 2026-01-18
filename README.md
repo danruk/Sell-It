@@ -21,14 +21,37 @@ Sell-It is a mobile marketplace app for listing and selling items you no longer 
 - apisauce for API calls
 
 ## Screenshots
-![Welcome](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.01.png>)
-![Register](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.20.png>)
-![Login](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.31.png>)
-![Feed](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.35.52.png>)
-![Create Listing](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.04.png>)
-![Account](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.31.png>)
-![Messages](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.37.png>)
-![Logout](<Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.45.png>)
+1. **Welcome**: start at the landing screen and choose Login or Register to continue.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.01.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.01.png" alt="Welcome" width="260"></a>
+
+2. **Register**: create a new account with name, email, and password.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.20.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.20.png" alt="Register" width="260"></a>
+
+3. **Login**: returning users sign in with their email and password.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.31.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.34.31.png" alt="Login" width="260"></a>
+
+4. **Feed**: browse nearby items and scroll the listing cards with photos and prices.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.35.52.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.35.52.png" alt="Feed" width="260"></a>
+
+5. **Create listing**: tap the plus tab to add photos, title, price, category, and description, then post.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.04.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.04.png" alt="Create Listing" width="260"></a>
+
+6. **Account**: open your profile to see your listings, messages, and account actions.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.31.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.31.png" alt="Account" width="260"></a>
+
+7. **Messages**: view and manage conversations about listings.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.37.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.37.png" alt="Messages" width="260"></a>
+
+8. **Logout**: use the account screen to sign out when you are done.
+
+   <a href="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.45.png"><img src="SellIt/docs/Simulator Screenshot - iPhone 15 Pro Max - 2026-01-17 at 22.36.45.png" alt="Logout" width="260"></a>
 
 ## Run locally
 
